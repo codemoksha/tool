@@ -1,6 +1,6 @@
 # Arsenal
 <h1 align="center">
-  <img src="[https://i.imgur.com/0sx9YWQ.jpg](https://media.giphy.com/media/EUnVjFsXUSWuZM8Tqi/giphy.gif?cid=790b761147ye2dtz5u7qg3spxeetdq3s1oqqpk36swg47rbg&ep=v1_gifs_trending&rid=giphy.gif&ct=g)" alt="subfinder" width="500" >
+  <img src="" alt="subfinder" width="500" >
   <br>
 </h1>
 
