@@ -1,10 +1,1 @@
-# sudo apt-get remove -y golang-go
- sudo rm -rf /usr/local/go
- wget go.dev/dl/go1.20.4.linux-amd64.tar.gz
- sudo tar -xvf go1.20.4.linux-amd64.tar.gz
- sudo mv go /usr/local
- nano /etc/profile or .profile
- export GOPATH=$HOME/go
- export PATH=$PATH:/usr/local/go/bin
- export PATH=$PATH:$GOPATH/bin 
- source /etc/profile #to update you shell dont worry
+![117063216_331618098025599_2074104767434270729_n](https://github.com/codemoksha/tool/assets/95048334/1bed54da-af4f-4a51-a48f-26434c197957)
