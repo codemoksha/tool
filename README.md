@@ -100,7 +100,7 @@ snow is a Simple shell script (Bash) used to install the most important tools an
 
 
 <h1 align="center">
-  <img src="https://i.imgur.com/ZEGGucH.png" alt="snow" width="700" >
+  <img src="[https://i.imgur.com/ZEGGucH.png](https://media.giphy.com/media/v5LGVtcBFTV5K/giphy.gif?cid=ecf05e470961eskkm8c70117s3e1hbpeeo5g4jmazs9stgj5&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="snow" width="700" >
   <br>
 </h1>
 
