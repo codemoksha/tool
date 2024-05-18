@@ -93,7 +93,7 @@ snow is a Simple shell script (Bash) used to install the most important tools an
 ----
 ## How to install
 
-    git clone https://github.com/codemoksha/snow.git
+    git clone git@github.com:codemoksha/tool.git
 	cd snow
 	sudo chmod +x snow.sh
 	sudo ./snow.sh
