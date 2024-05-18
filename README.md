@@ -1,6 +1,6 @@
 # snow
 <h1 align="center">
-  <img src="" alt="subfinder" width="500" >
+  <img src="" alt="SNOW" width="500" >
   <br>
 </h1>
 
