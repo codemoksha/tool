@@ -26,9 +26,9 @@ ${Red}
                                  
  "
 
-# creat a dir to your arsenal
-mkdir Arsenal &> /dev/null
-cd Arsenal 
+# creat a dir to your snow
+mkdir snow &> /dev/null
+cd snow 
 requirements(){
     # check go 
     go_v=$(go version) 2> /dev/null
