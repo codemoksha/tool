@@ -7,7 +7,7 @@
 <h4 align="center">Recon Tool installer</h4>
 
 <p align="center">
-<a href="https://twitter.com/killua0x01"><img src="https://img.shields.io/twitter/follow/Micro0x00.svg?logo=twitter"></a>
+<a href="https://twitter.com/killua0x01"><img src="https://img.shields.io/twitter/follow/killua0x01.svg?logo=twitter"></a>
 </p>
 
 ----
