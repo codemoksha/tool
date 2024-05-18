@@ -12,8 +12,8 @@
 
 ----
 
-Arsenal is a Simple shell script (Bash) used to install the most important tools and requirements for your environment and save time in installing all these tools.
- ## Tools in Arsenal
+snow is a Simple shell script (Bash) used to install the most important tools and requirements for your environment and save time in installing all these tools.
+ ## Tools in snow
 
 |Name| description |
 |---|---|
@@ -69,7 +69,7 @@ Arsenal is a Simple shell script (Bash) used to install the most important tools
 
 
 ----
-## Requirements in Arsenal:heavy_check_mark:
+## Requirements in snow:heavy_check_mark:
 
  - Python3
  - Git
@@ -93,14 +93,14 @@ Arsenal is a Simple shell script (Bash) used to install the most important tools
 ----
 ## How to install
 
-    git clone https://github.com/Micro0x00/Arsenal.git
-	cd Arsenal
-	sudo chmod +x Arsenal.sh
-	sudo ./Arsenal.sh
+    git clone https://github.com/codemoksha/snow.git
+	cd snow
+	sudo chmod +x snow.sh
+	sudo ./snow.sh
 
 
 <h1 align="center">
-  <img src="https://i.imgur.com/ZEGGucH.png" alt="arsenal" width="700" >
+  <img src="https://i.imgur.com/ZEGGucH.png" alt="snow" width="700" >
   <br>
 </h1>
 
